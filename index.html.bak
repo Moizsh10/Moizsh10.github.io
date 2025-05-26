@@ -10,17 +10,14 @@
 	<link rel="stylesheet" href="style.css">
   </head>
   <body id="body-background">
-	<div class="row">
-		<div class="col-sm-12 col-md-6 offset-md-3">
-			<h1 class="display-1 align-content-left border-bottom border-3 border-secondary p-3">Moizuddin Shah</h1>
-		</div>
-	</div>
+
 	<div class="row">	
-		<div class ="col-sm-12 col-md-6 offset-md-3">
+		<div class ="col-sm-12 col-md-8 offset-md-2">
+			<h1 class="display-1 align-content-left border-bottom border-3 border-secondary p-3">Moizuddin Shah</h1>
 			<main class="p-3">
 				<h2>About Me</h2>
 				
-				<p>I am a Mechatronics Engineering graduate with a minor in Embedded Systems Integration from Texas A&M University, class of 2023. Gig 'Em Aggies! </p>
+				<p>I am a Mechatronics Engineering graduate with a minor in Embedded Systems Integration from Texas A&M University, class of 2023. Gig 'Em Aggies!</p>
 				
 				<p>I've worked in the Oil & Gas and Automation industries, and have hands on, practical experience working with and programming robotic systems as well as installing Machine Vision systems on oil rigs to work in tandem with automated robotic systems</p>
 				
