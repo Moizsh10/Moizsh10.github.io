@@ -12,7 +12,7 @@
   <body id="body-background">
 
 	<div class="row">	
-		<div class ="col-sm-12 col-md-8 offset-md-2">
+		<div class ="col-sm-12 col-md-10 offset-md-1">
 			<h1 class="display-1 align-content-left border-bottom border-3 border-secondary p-3">Moizuddin Shah</h1>
 			<main class="p-3">
 				<h2>About Me</h2>
