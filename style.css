@@ -6,6 +6,9 @@
 	/*colors*/
 	--yale-blue: #043565;
 	--platinum: #e0e0e2;
+	--gradient-1: #171b25;
+	--gradient-2: #181B25;
+	--gradient-3: #202431;
 	
 }
 
@@ -16,7 +19,7 @@
 
 main {
 	max-width: 1660px;
-	background-color: #171b25;
+	/* background-color: var(--gradient-1); */
 }
 
 h2 {
